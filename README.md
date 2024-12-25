@@ -1,50 +1,105 @@
-# Welcome to your Expo app 👋
+# InnoAInsure-Web-BE
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Project Banner](Banner url here)
 
-## Get started
+## Project Description
 
-1. Install dependencies
+Backend of the InnoAInsure web application build with Flask for motor insurance claim process automation, user support, fraud detection and risk analysis.
 
-   ```bash
-   npm install
-   ```
+## System Overview Diagram
 
-2. Start the app
+![System diagram here]
 
-   ```bash
-    npx expo start
-   ```
+### Automated Document Processing and Customer Risk Calculation Agent Overview
 
-In the output, you'll find options to open the app in a
+![diagram 1]
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Sub objectives of the above agent includes :
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+⭕ Calculate motor insurance customer risk as a percentage.
 
-## Get a fresh project
+⭕ Categorizing customers based on the risk level.
 
-When you're ready, run:
+⭕ Data extraction and processing.
 
-```bash
-npm run reset-project
+⭕ Document classification, indexing and search.
+
+⭕ Automation of document generation
+
+### Claim Process Automation and Fraud Detection Agent
+
+![diagram 2]
+
+⭕ Damage analysis using the media files to assess damage and estimate repair costs.
+
+⭕ Automating the process of claim submission with the chatbot assistance.
+
+⭕ Verify the User and Vehicle Details to predict possible fraud.
+
+⭕ Identify patterns indicative of fraudulent activities.
+
+### Vehicle Risk Level Analysis and Premium Prediction Agent
+
+![diagram 3]
+
+⭕ Predict risk using spare parts data for different vehicle types.
+
+⭕ Predict risk using market prices for different vehicle types.
+
+⭕ Predict risk using historical claim data of different vehicle types.
+
+⭕ Merge risk factors together and compute the overall risk score.
+
+⭕ Adjust premium based on risk score.
+
+### Customer Estimation Cross-Checking and Post-Repair Inspection Agent
+
+![diagram 4]
+
+⭕ Maintenance of the up-to-date vehicle spare part and repair costs.
+
+⭕ Validating the integrity of the customer sent estimations.
+
+⭕ Automating the process of post repair inspection.
+
+## Technologies used
+
+![Flask](https://img.shields.io/badge/ReactNative-374151?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/TYPESCRIPT-fbbf24?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+
+## Setup Instructions
+
+Clone the project and follow the below setup instructions in order to setup the environment which needs to run the project.
+
+### Pre-requisites to setup project
+
+### Installing dependencies
+
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+```
 
-## Learn more
+### Setting up environment variables file
 
-To learn more about developing your project with Expo, look at the following resources:
+Create an file with .env extension in the project directory and add the following code segments into the file.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```
 
-## Join the community
+```
 
-Join our community of developers creating universal apps.
+### Running the project
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```
+
+```
+
+## Test Setup
+
+### Running unit tests
+
+```
+
+```
+
+## URL of the web application
