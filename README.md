@@ -1,6 +1,6 @@
 # InnoAInsure-Web-BE
 
-![Project Banner](Banner url here)
+![Project Banner](https://github.com/CSSamarasinghe/innoAInsure-Moblie/blob/59bbab9b8de6030d7230971d24a774e83a45118d/assets/InnoAInsure_Mobile_Application_%F0%9F%9A%80.png)
 
 ## Project Description
 
@@ -8,11 +8,11 @@ Backend of the InnoAInsure web application build with Flask for motor insurance 
 
 ## System Overview Diagram
 
-![System diagram here]
+![System overview diagram](https://github.com/CSSamarasinghe/innoAInsure-Moblie/blob/59bbab9b8de6030d7230971d24a774e83a45118d/assets/system_overview_diagram.png)
 
 ### Automated Document Processing and Customer Risk Calculation Agent Overview
 
-![diagram 1]
+![diagram 1](https://github.com/CSSamarasinghe/innoAInsure-Moblie/blob/59bbab9b8de6030d7230971d24a774e83a45118d/assets/IT21258626_system_diagram.png)
 
 Sub objectives of the above agent includes :
 
@@ -28,7 +28,7 @@ Sub objectives of the above agent includes :
 
 ### Claim Process Automation and Fraud Detection Agent
 
-![diagram 2]
+![diagram 2](https://github.com/CSSamarasinghe/innoAInsure-Moblie/blob/59bbab9b8de6030d7230971d24a774e83a45118d/assets/IT21227622_system_overview_diagram.png)
 
 ⭕ Damage analysis using the media files to assess damage and estimate repair costs.
 
@@ -40,7 +40,7 @@ Sub objectives of the above agent includes :
 
 ### Vehicle Risk Level Analysis and Premium Prediction Agent
 
-![diagram 3]
+![diagram 3](https://github.com/CSSamarasinghe/innoAInsure-Moblie/blob/59bbab9b8de6030d7230971d24a774e83a45118d/assets/IT21259302_system_overview_diagram.png)
 
 ⭕ Predict risk using spare parts data for different vehicle types.
 
@@ -54,7 +54,7 @@ Sub objectives of the above agent includes :
 
 ### Customer Estimation Cross-Checking and Post-Repair Inspection Agent
 
-![diagram 4]
+![diagram 4](https://github.com/CSSamarasinghe/innoAInsure-Moblie/blob/59bbab9b8de6030d7230971d24a774e83a45118d/assets/IT21257568_system_overview_diagram.png)
 
 ⭕ Maintenance of the up-to-date vehicle spare part and repair costs.
 
@@ -64,9 +64,9 @@ Sub objectives of the above agent includes :
 
 ## Technologies used
 
-![Flask](https://img.shields.io/badge/ReactNative-374151?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/TYPESCRIPT-fbbf24?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-374151?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-fbbf24?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
 
 ## Setup Instructions
 
