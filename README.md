@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Backend of the InnoAInsure web application build with Flask for motor insurance claim process automation, user support, fraud detection and risk analysis.
+Cross-platform mobile app built with Flutter for motor insurance claim automation and user Support. Features include user authentication, accident reporting, damage assessment using image processing, and fraud detection via real-time location analysis. The app enhances claim efficiency and minimizes fraud.
 
 ## System Overview Diagram
 
